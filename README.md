@@ -2,9 +2,11 @@
 
 A curated collection of outstanding technical articles written by Nigerian developers, highlighting the depth and impact of Nigerian talent in the global tech ecosystem.
 
+**Campaign:** [#NigerianDevArticles100](https://twitter.com/search?q=%23NigerianDevArticles100)
+
 ## About
 
-This repository documents 100 exceptional technical articles by Nigerian developers, each selected for their technical depth, community impact, and contribution to the global developer knowledge base. Each entry includes the author's background, article analysis, and personal connections that demonstrate the interconnected nature of Nigeria's tech community.
+This repository documents 100 exceptional technical articles by Nigerian developers, each selected for their technical depth, community impact, and contribution to the global developer knowledge base. Each entry includes authentic personal stories and connections that demonstrate the interconnected nature of Nigeria's tech community.
 
 ## Current Progress: 9/100
 
@@ -23,21 +25,45 @@ This repository documents 100 exceptional technical articles by Nigerian develop
 ## Repository Structure
 
 ```
-articles/          # Individual article documentation (001-100)
-template.md        # Template for new articles  
-authors.md         # Author index and backgrounds
-README.md          # This file
+articles/                           # Individual article documentation (001-100)
+template.md                         # Template for new articles
+CONTRIBUTING.md                     # Contribution guidelines
+.github/ISSUE_TEMPLATE/             # Issue templates
+.github/pull_request_template.md    # PR template
+README.md                           # This file
 ```
 
 ## Contributing
 
-Found an exceptional article by a Nigerian developer? Open an issue with:
-- Article URL
-- Author information  
-- Why it's impactful
-- Personal connection (if any)
+Found an exceptional article by a Nigerian developer? We welcome contributions that meet our quality standards.
+
+**Requirements:**
+- Authentic personal connection to the article
+- Technical excellence and community impact
+- Nigerian author (origin or based in Nigeria)
+
+[Read our contribution guidelines](CONTRIBUTING.md) | [Suggest an article](../../issues/new?template=article-suggestion.md)
 
 ## Project Goals
 
-- Showcase Nigerian developer excellence
-- Document community interconnections
+- Showcase Nigerian developer excellence worldwide
+- Document authentic community connections and stories
+- Create a lasting resource for the global tech community
+- Celebrate the impact of Nigerian technical writing
+
+## Connect
+
+- Follow the campaign: [#NigerianDevArticles100](https://twitter.com/search?q=%23NigerianDevArticles100)
+- Creator: [@SamuelUmoren](https://twitter.com/SamuelUmoren) | [LinkedIn](https://linkedin.com/in/umoren)
+
+## Support This Project
+
+If you find this collection valuable:
+- Star this repository
+- Share articles from the collection
+- Follow [#NigerianDevArticles100](https://twitter.com/search?q=%23NigerianDevArticles100) on social media
+- Contribute your own article suggestions
+
+---
+
+**License:** [Creative Commons Attribution 4.0](LICENSE) - Share and adapt with attribution
