@@ -54,7 +54,7 @@ Found an exceptional article by a Nigerian developer? We welcome contributions t
 ## Connect
 
 - Follow the campaign: [#NigerianDevArticles100](https://x.com/search?q=%23NigerianDevArticles100)
-- Creator: [@SamuelUmoren](https://x.com/saameeey) | [LinkedIn](https://linkedin.com/in/umoren)
+- Creator: [@saameey](https://x.com/saameeey) | [LinkedIn](https://linkedin.com/in/umoren)
 
 ## Support This Project
 
