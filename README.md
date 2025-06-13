@@ -42,7 +42,7 @@ Found an exceptional article by a Nigerian developer? We welcome contributions t
 - Technical excellence and community impact
 - Nigerian author (origin or based in Nigeria)
 
-[Read our contribution guidelines](CONTRIBUTING.md) | [Suggest an article](../../issues/new?template=article-suggestion.md)
+[Read our contribution guidelines](CONTRIBUTORS.md) | [Suggest an article](../../issues/new?template=article-suggestion.md)
 
 ## Project Goals
 
