@@ -2,8 +2,8 @@
 
 **Author:** Chidi Williams  
 **Platform:** Personal Blog  
-**Publication Date:** 2019  
-**Article Link:** https://lnkd.in/drePT74A
+**Publication Date:** May 1, 2020
+**Article Link:** https://www.chidiwilliams.com/posts/writing-cleaner-go-web-servers
 
 ## Personal Connection
 

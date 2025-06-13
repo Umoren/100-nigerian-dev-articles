@@ -1,9 +1,9 @@
 # Article 001: Who is Speaking On Your Behalf?
 
-**Author:** Prosper Otemuyiwa  
-**Platform:** Personal Blog  
-**Publication Date:** 2020  
-**Article Link:** https://lnkd.in/dhExadPG
+**Author:** Prosper Otemuyiwa
+**Platform:** Personal Blog
+**Publication Date:** January 14, 2020
+**Article Link:** https://dev.to/unicodeveloper/who-is-speaking-on-your-behalf-2c5e
 
 ## Personal Connection
 
@@ -15,14 +15,14 @@ When Prosper posted this article in 2020, it was so inspiring and I was like "I 
 
 Prosper breaks down why technical skills alone aren't enough—you need advocates. The PayPal Mafia example he shares shows how powerful networks compound over time. This piece perfectly illustrates why relationships ARE assets.
 
-## Author Background
-
-Senior Developer/Technical Leader with deep insights into career advancement and networking in tech.
-
 ## Impact & Relevance
 
-This article shaped how an entire generation of Nigerian developers think about career growth. It moved beyond technical skills to emphasize the strategic importance of building professional relationships and having advocates in your corner.
+This article fundamentally changed how I think about career advancement - from focusing purely on technical skills to understanding the importance of building genuine relationships and having people who can advocate for you when opportunities arise.
 
 ## Tags
 
-`#career` `#networking` `#professional-development` `#relationships`
+`#Networking` `#CareerGrowth` `#TechnicalWriting` `#Relationships` `#Advocacy`
+
+---
+
+**Hashtag:** #NigerianDevArticles100
