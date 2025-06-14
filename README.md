@@ -8,7 +8,7 @@ A curated collection of outstanding technical articles written by Nigerian devel
 
 This repository documents 100 exceptional technical articles by Nigerian developers, each selected for their technical depth, community impact, and contribution to the global developer knowledge base. Each entry includes authentic personal stories and connections that demonstrate the interconnected nature of Nigeria's tech community.
 
-## Current Progress: 9/100
+## Current Progress: 10/100
 
 | # | Author | Title | Platform |
 |---|--------|--------|----------|
@@ -21,6 +21,7 @@ This repository documents 100 exceptional technical articles by Nigerian develop
 | 007 | Ekene Eze | Implementing vector search with OpenAI, Next.js, and Supabase | LogRocket |
 | 008 | Bolaji Ayodeji | Contributing to Open Source Pocket Guide | Personal Blog |
 | 009 | Linda Ikechukwu | How to create a Technical Writing Portfolio | everythingtechnicalwriting.com |
+| 010 | Ire Aderinokun | Web Performance Metrics Cheatsheet | Personal Blog |
 
 ## Repository Structure
 
