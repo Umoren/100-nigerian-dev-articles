@@ -8,7 +8,7 @@ A curated collection of outstanding technical articles written by Nigerian devel
 
 This repository documents 100 exceptional technical articles by Nigerian developers, each selected for their technical depth, community impact, and contribution to the global developer knowledge base. Each entry includes authentic personal stories and connections that demonstrate the interconnected nature of Nigeria's tech community.
 
-## Current Progress: 11/100
+## Current Progress: 12/100
 
 | # | Author | Title | Platform |
 |---|--------|--------|----------|
@@ -23,6 +23,7 @@ This repository documents 100 exceptional technical articles by Nigerian develop
 | 009 | Linda Ikechukwu | How to create a Technical Writing Portfolio | everythingtechnicalwriting.com |
 | 010 | Ire Aderinokun | Web Performance Metrics Cheatsheet | Personal Blog |
 | 011 | Edidiong Asikpo | Open Source contributions: A catalyst for growth | Personal Blog |
+| 012 | Shedrack Akintayo | What is GitOps and Why Should Developers Care? | Ambassador Labs|
 
 ## Repository Structure
 
