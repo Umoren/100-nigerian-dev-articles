@@ -26,6 +26,7 @@ This repository documents 100 exceptional technical articles by Nigerian develop
 | 012 | Shedrack Akintayo | What is GitOps and Why Should Developers Care? | Ambassador Labs|
 | 013 | Fortune Ikechi | Building AI applications with Platformatic AI-Warp | Platformatic |
 | 014 | Deborah Emeni | Laravel Forge: Everything You Need to Know to Get Started | ButterCMS |
+| 015 | Oluwaseun Raphael Afolayan | Containerizing a simple Django application with Docker and Docker Compose | Logrocket |
 
 ## Repository Structure
 
