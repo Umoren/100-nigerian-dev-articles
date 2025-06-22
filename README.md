@@ -27,6 +27,7 @@ This repository documents 100 exceptional technical articles by Nigerian develop
 | 013 | Fortune Ikechi | Building AI applications with Platformatic AI-Warp | Platformatic |
 | 014 | Deborah Emeni | Laravel Forge: Everything You Need to Know to Get Started | ButterCMS |
 | 015 | Oluwaseun Raphael Afolayan | Containerizing a simple Django application with Docker and Docker Compose | Logrocket |
+| 016 | Ohans Emmanuel | A Perfect Solution to Master Soft Skills | Medium |
 
 ## Repository Structure
 
