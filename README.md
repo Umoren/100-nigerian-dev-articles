@@ -28,6 +28,7 @@ This repository documents 100 exceptional technical articles by Nigerian develop
 | 014 | Deborah Emeni | Laravel Forge: Everything You Need to Know to Get Started | ButterCMS |
 | 015 | Oluwaseun Raphael Afolayan | Containerizing a simple Django application with Docker and Docker Compose | Logrocket |
 | 016 | Ohans Emmanuel | A Perfect Solution to Master Soft Skills | Medium |
+| 017 | Solomon Eseme | How to Become a Backend Developer (2025) | Backend Developers |
 
 ## Repository Structure
 
