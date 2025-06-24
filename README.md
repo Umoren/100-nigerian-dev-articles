@@ -29,6 +29,7 @@ This repository documents 100 exceptional technical articles by Nigerian develop
 | 015 | Oluwaseun Raphael Afolayan | Containerizing a simple Django application with Docker and Docker Compose | Logrocket |
 | 016 | Ohans Emmanuel | A Perfect Solution to Master Soft Skills | Medium |
 | 017 | Solomon Eseme | How to Become a Backend Developer (2025) | Backend Developers |
+| 018 | Dillion Megida | Repurposing Content Across Different Platforms | Personal Blog |
 
 ## Repository Structure
 
