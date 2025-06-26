@@ -30,6 +30,7 @@ This repository documents 100 exceptional technical articles by Nigerian develop
 | 016 | Ohans Emmanuel | A Perfect Solution to Master Soft Skills | Medium |
 | 017 | Solomon Eseme | How to Become a Backend Developer (2025) | Backend Developers |
 | 018 | Dillion Megida | Repurposing Content Across Different Platforms | Personal Blog |
+| 019 | Wisdom Nwokocha | Is AI the End of Keyword Optimization in SEO? | Personal Blog |
 
 ## Repository Structure
 
