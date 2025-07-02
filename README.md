@@ -31,6 +31,7 @@ This repository documents 100 exceptional technical articles by Nigerian develop
 | 017 | Solomon Eseme | How to Become a Backend Developer (2025) | Backend Developers |
 | 018 | Dillion Megida | Repurposing Content Across Different Platforms | Personal Blog |
 | 019 | Wisdom Nwokocha | Is AI the End of Keyword Optimization in SEO? | Personal Blog |
+| 020 | Zainab Daodu  | Introduction to Technical Writing: Steps to Writing a Killer Technical Article | Personal Blog |
 
 ## Repository Structure
 
