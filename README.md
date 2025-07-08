@@ -32,6 +32,7 @@ This repository documents 100 exceptional technical articles by Nigerian develop
 | 018 | Dillion Megida | Repurposing Content Across Different Platforms | Personal Blog |
 | 019 | Wisdom Nwokocha | Is AI the End of Keyword Optimization in SEO? | Personal Blog |
 | 020 | Zainab Daodu  | Introduction to Technical Writing: Steps to Writing a Killer Technical Article | Personal Blog |
+| 021 | Abdulazeez Abdulazee  | Building a CRUD App with FastAPI and MongoDB | TestDriven.io |
 
 ## Repository Structure
 
